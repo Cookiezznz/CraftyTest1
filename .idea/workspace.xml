@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da8ce6a0-97e9-42af-a3a0-1430e78ddc2b" name="Default Changelist" comment="Colour Change">
+    <list default="true" id="da8ce6a0-97e9-42af-a3a0-1430e78ddc2b" name="Default Changelist" comment="Platforms">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scenes/game.js" beforeDir="false" afterPath="$PROJECT_DIR$/scenes/game.js" afterDir="false" />
     </list>
@@ -59,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626858420956</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Platforms">
+      <created>1626858780866</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1626858780866</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,6 +87,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="No changes" />
     <MESSAGE value="Colour Change" />
-    <option name="LAST_COMMIT_MESSAGE" value="Colour Change" />
+    <MESSAGE value="Platforms" />
+    <option name="LAST_COMMIT_MESSAGE" value="Platforms" />
   </component>
 </project>
