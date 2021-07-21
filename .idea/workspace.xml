@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da8ce6a0-97e9-42af-a3a0-1430e78ddc2b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/craftjs-game-template-master/.circleci/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.circleci/config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/craftjs-game-template-master/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/craftjs-game-template-master/assets.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/craftjs-game-template-master/assets/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/assets/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/craftjs-game-template-master/assets/images/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/craftjs-game-template-master/assets/sounds/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sounds/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/craftjs-game-template-master/components/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/components/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/craftjs-game-template-master/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/craftjs-game-template-master/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/craftjs-game-template-master/scenes/game.js" beforeDir="false" afterPath="$PROJECT_DIR$/scenes/game.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/craftjs-game-template-master/scenes/loading.js" beforeDir="false" afterPath="$PROJECT_DIR$/scenes/loading.js" afterDir="false" />
-    </list>
+    <list default="true" id="da8ce6a0-97e9-42af-a3a0-1430e78ddc2b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +11,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1vcHTF8paOYZ9AejNPCJmzlLr3B" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -63,5 +50,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
