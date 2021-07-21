@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da8ce6a0-97e9-42af-a3a0-1430e78ddc2b" name="Default Changelist" comment="title change">
+    <list default="true" id="da8ce6a0-97e9-42af-a3a0-1430e78ddc2b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scenes/game.js" beforeDir="false" afterPath="$PROJECT_DIR$/scenes/game.js" afterDir="false" />
     </list>
@@ -38,14 +38,6 @@
       <workItem from="1626854466508" duration="806000" />
       <workItem from="1626855292670" duration="334000" />
     </task>
-    <task id="LOCAL-00001" summary="title change">
-      <created>1626856137979</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1626856137979</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -62,9 +54,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="title change" />
-    <option name="LAST_COMMIT_MESSAGE" value="title change" />
   </component>
 </project>
